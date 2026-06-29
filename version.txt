@@ -1,2 +1,2 @@
-P4_FW_VER  1.7
-C6_FW_VER  1.6
+P4_FW_VER  1.6
+C6_FW_VER  1.7
